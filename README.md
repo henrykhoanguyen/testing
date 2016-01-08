@@ -1,6 +1,24 @@
 # testing
 This is for playing around
 
-Testing is a repository for showing the bare minimums of github and how to make neuver, fuction, etc.
+FUK PLAYING AROUND YALL!
 
-HELLO WORLD!!!!!!
+
+
+GOTTA PRACICE DOIGN STUFF OR ELSE WE WILL LOSE
+
+
+
+
+
+GOOD JOB SO FAR ON LEARNING GITHUB AND GIT
+
+THIS IS A LOT U HAVE DONE!
+
+NOW TRY TO EDIT AND PUSH A CPP FILE NEXT
+
+
+
+
+BYE NOW!
+<end of file>
