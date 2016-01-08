@@ -1,8 +1,6 @@
 # testing
 This is for playing around
 
-FUK PLAYING AROUND YALL!
-
 
 
 GOTTA PRACICE DOIGN STUFF OR ELSE WE WILL LOSE
