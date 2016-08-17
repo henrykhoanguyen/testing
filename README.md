@@ -1,22 +1,6 @@
-# testing
-This is for playing around
+RE-LEARNING GITHUB
+==================
 
+how do you use this thing???? omg
 
-
-GOTTA PRACICE DOIGN STUFF OR ELSE WE WILL LOSE
-
-
-
-
-
-GOOD JOB SO FAR ON LEARNING GITHUB AND GIT
-
-THIS IS A LOT U HAVE DONE!
-
-NOW TRY TO EDIT AND PUSH A CPP FILE NEXT
-
-
-
-
-BYE NOW!
-<end of file>
+//END OF FILE
